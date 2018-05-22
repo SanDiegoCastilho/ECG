@@ -1,5 +1,5 @@
 package calc;
- 
+
 import javax.xml.ws.Endpoint;
  
 public class CalculadoraServerPublisher {
